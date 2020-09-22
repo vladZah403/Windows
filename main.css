@@ -1,28 +1,54 @@
 .parallax {
-    /* The image used */
     background-image: url("img/Vista.png");
-  
-    /* Set a specific height */
     min-height: 900px; 
-  
-    /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
   .parallax2 {
-    /* The image used */
     background-image: url("img/win.jpg");
-  
-    /* Set a specific height */
     min-height: 900px; 
-  
-  
-    /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
-  
+  .parallax3 {
+    background-image: url("img/Windowsvista.jpg");
+    min-height: 900px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+a:visited{
+    color: white;
+}
+a:active{
+    color: white;
+}
+.parallax4 {
+    background-image: url("img/Android_logo.jpg");
+    min-height: 900px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax5 {
+    background-image: url("img/google-android_large.png");
+    min-height: 900px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax6 {
+    background-image: url("img/1_rpu-OuiHBtkOLNGzpcXdsQ.png");
+    min-height: 900px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
